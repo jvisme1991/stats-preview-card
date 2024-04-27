@@ -178,7 +178,7 @@ body {
     background: var(--clr-primary-bright-purple);
     mix-blend-mode: multiply;
     opacity: 0.8;
-    border-top-left-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
     border-top-right-radius: var(--border-radius);
   }
 
